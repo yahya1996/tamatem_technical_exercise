@@ -16,4 +16,4 @@ This repository Contains the technical exercise of tamatem.
 
 **No External Libraries used only Standard from Python (OS)**	
 
-**Thanks**	
+**Thanks :) **	
